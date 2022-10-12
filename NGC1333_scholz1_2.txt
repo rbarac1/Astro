@@ -1,0 +1,24 @@
+Table 2 
+New Very Low Mass Members in NGC 1333
+
+
+ID	alpha(J2000)	delta(J2000)	i'^a	z'^a	J^b	K^b	A_V^c	A_V^d	SpT^e	T_eff^f	Other Names^g	
+			(mag)	(mag)	(mag)	(mag)						
+S-29	03 28 28.40	+31 16 27.3	17.637	16.675	14.624	13.624	0	0	M6.9	3150		
+S-30	03 28 31.08	+31 17 04.1	23.650	21.235	16.823	14.079	9	9	M9.3	2700		
+S-31	03 29 44.15	+31 19 47.9			17.386	15.290	6	5	~M9	2300	Sp 132	
+S-32	03 29 03.21	+31 25 45.2			15.798	13.832	4	4	M7.1	3200	MBO89, Sp 79	
+S-33	03 29 03.95	+31 23 30.8			17.143	14.932	7	5	M8.3	2500	MBO116, Sp 83	
+S-34	03 29 06.94	+31 29 57.1	20.839	19.225	16.541	14.774	4	4	M7.0	2950	Sp 90	
+S-35	03 29 10.18	+31 27 16.0	18.988	17.711	15.547	14.127	2	2	M7.4	3050	MBO94, Sp 96	
+S-36	03 29 25.84	+31 16 41.8	23.392	21.432	18.53	17.07	2	0	~L3	2250		
+S-37	03 29 30.54	+31 27 28.0	17.356	16.344	13.808	12.598	1	2	M6.9	3200	MBO68	
+S-38	03 29 34.42	+31 15 25.2	21.091	19.654	17.33	16.15	1	1	M7.7	2850		
+Notes. The IDs SONYC-NGC 1333-X are abbreviated with S-X.
+a i- and z-band photometry from Scholz et al. (2009a).
+b J- and K-band photometry from 2MASS or, for SONYC-NGC 1333-36 and 38, from Scholz et al. (2009a).
+c Calculated from the J- and K-band magnitudes using Equation (1).
+d Corrected A_V after spectral fitting, see Section 3.3.
+e Estimated using the HPI index as defined in Section 3.2.
+f Estimated by comparing the spectra to models, see Section 3.3.
+g Identifiers are from Wilking et al. (2004, MBO) and the Spitzer survey by Gutermuth et al. (2008, Sp).
