@@ -1,9 +1,5 @@
-Table 4 
-Previously Confirmed Very Low Mass Members in NGC 1333
-
-
 IDs	alpha(J2000)	delta(J2000)	J^1	K^1	SpT ^2	T_eff^2	Other Names^3	
-			(mag)	(mag)				
+							
 S-1	03 28 47.66	+31 21 54.6	17.55	15.24	M9.2^a	2600^a, 2800^b	MBO139	
 S-2	03 28 54.92	+31 15 29.0	15.990	14.219	M7.9^a, M6.5^b, M8^d, M8.6^f	2850^a, 2600^b	ASR109, Sp 60	
 S-3	03 28 55.24	+31 17 35.4	15.090	13.433	M7.9^c, M8.2^f	2900^b	ASR38	
@@ -48,7 +44,4 @@ Sp 131	03 29 37.73	+31 22 02.4	13.987	12.958	M7.6^a, M7.0^e	2850^a, 2891^e	MBO65
 Sp 157	03 29 12.79	+31 20 07.7	14.676	13.294	M7.6^a, M7.7^c, M7.5^e	2950^a, 2812^e	MBO75, ASR83	
 Sp 177	03 29 24.83	+31 24 06.2	14.433	13.383	M6.5^a, M6.7^c, M6.5^e	3000^a, 2957^e	MBO77	
 Sp 71	03 28 58.24	+31 22 02.1	14.912	12.406	M6^e	2990^e	MBO47	
-Notes. The IDs SONYC-NGC 1333-X are abbreviated with S-X.
-^1 Photometry from 2MASS (most objects) or SONYC (for SONYC-NGC 1333-1, 4, 6, 11, 18, 19).
-^2 Spectral types or effective temperatures from the following references: (a) this paper; (b) Scholz et al. 2009a; (c) Wilking et al. 2004; (d) Greissl et al. 2007; (e) Winston et al. 2009; (f) HPI spectral types for spectra in Scholz et al. (2009a).
-^3 Identifiers are from Aspin et al. (1994, ASR), Wilking et al. (2004, MBO), and the Spitzer survey by Gutermuth et al. (2008, Sp).
+
